@@ -1,0 +1,24 @@
+E:\T1BT - Guilherme\FUNDAMENTOS DE PROGRAMACAO\GuilhermeCSharp\ProjetoHawairesCorreto\ProjetoHawairesCorreto\bin\Debug\ProjetoHawairesCorreto.exe.config
+E:\T1BT - Guilherme\FUNDAMENTOS DE PROGRAMACAO\GuilhermeCSharp\ProjetoHawairesCorreto\ProjetoHawairesCorreto\bin\Debug\ProjetoHawairesCorreto.exe
+E:\T1BT - Guilherme\FUNDAMENTOS DE PROGRAMACAO\GuilhermeCSharp\ProjetoHawairesCorreto\ProjetoHawairesCorreto\bin\Debug\ProjetoHawairesCorreto.pdb
+E:\T1BT - Guilherme\FUNDAMENTOS DE PROGRAMACAO\GuilhermeCSharp\ProjetoHawairesCorreto\ProjetoHawairesCorreto\obj\Debug\ProjetoHawairesCorreto.csprojResolveAssemblyReference.cache
+E:\T1BT - Guilherme\FUNDAMENTOS DE PROGRAMACAO\GuilhermeCSharp\ProjetoHawairesCorreto\ProjetoHawairesCorreto\obj\Debug\ProjetoHawairesCorreto.Carrinho.resources
+E:\T1BT - Guilherme\FUNDAMENTOS DE PROGRAMACAO\GuilhermeCSharp\ProjetoHawairesCorreto\ProjetoHawairesCorreto\obj\Debug\ProjetoHawairesCorreto.Contato.resources
+E:\T1BT - Guilherme\FUNDAMENTOS DE PROGRAMACAO\GuilhermeCSharp\ProjetoHawairesCorreto\ProjetoHawairesCorreto\obj\Debug\ProjetoHawairesCorreto.Encomendas.resources
+E:\T1BT - Guilherme\FUNDAMENTOS DE PROGRAMACAO\GuilhermeCSharp\ProjetoHawairesCorreto\ProjetoHawairesCorreto\obj\Debug\ProjetoHawairesCorreto.Encomendas2.resources
+E:\T1BT - Guilherme\FUNDAMENTOS DE PROGRAMACAO\GuilhermeCSharp\ProjetoHawairesCorreto\ProjetoHawairesCorreto\obj\Debug\ProjetoHawairesCorreto.Encomendas3.resources
+E:\T1BT - Guilherme\FUNDAMENTOS DE PROGRAMACAO\GuilhermeCSharp\ProjetoHawairesCorreto\ProjetoHawairesCorreto\obj\Debug\ProjetoHawairesCorreto.Form1.resources
+E:\T1BT - Guilherme\FUNDAMENTOS DE PROGRAMACAO\GuilhermeCSharp\ProjetoHawairesCorreto\ProjetoHawairesCorreto\obj\Debug\ProjetoHawairesCorreto.Login.resources
+E:\T1BT - Guilherme\FUNDAMENTOS DE PROGRAMACAO\GuilhermeCSharp\ProjetoHawairesCorreto\ProjetoHawairesCorreto\obj\Debug\ProjetoHawairesCorreto.Promoções.resources
+E:\T1BT - Guilherme\FUNDAMENTOS DE PROGRAMACAO\GuilhermeCSharp\ProjetoHawairesCorreto\ProjetoHawairesCorreto\obj\Debug\ProjetoHawairesCorreto.Properties.Resources.resources
+E:\T1BT - Guilherme\FUNDAMENTOS DE PROGRAMACAO\GuilhermeCSharp\ProjetoHawairesCorreto\ProjetoHawairesCorreto\obj\Debug\ProjetoHawairesCorreto.TodosProdutos.resources
+E:\T1BT - Guilherme\FUNDAMENTOS DE PROGRAMACAO\GuilhermeCSharp\ProjetoHawairesCorreto\ProjetoHawairesCorreto\obj\Debug\ProjetoHawairesCorreto.TodosProdutos2.resources
+E:\T1BT - Guilherme\FUNDAMENTOS DE PROGRAMACAO\GuilhermeCSharp\ProjetoHawairesCorreto\ProjetoHawairesCorreto\obj\Debug\ProjetoHawairesCorreto.csproj.GenerateResource.Cache
+E:\T1BT - Guilherme\FUNDAMENTOS DE PROGRAMACAO\GuilhermeCSharp\ProjetoHawairesCorreto\ProjetoHawairesCorreto\obj\Debug\ProjetoHawairesCorreto.exe
+E:\T1BT - Guilherme\FUNDAMENTOS DE PROGRAMACAO\GuilhermeCSharp\ProjetoHawairesCorreto\ProjetoHawairesCorreto\obj\Debug\ProjetoHawairesCorreto.pdb
+E:\T1BT - Ana Viana\Fundamentos de Programação\ProjetoHawairesCorreto\ProjetoHawairesCorreto\bin\Debug\ProjetoHawairesCorreto.exe.config
+E:\T1BT - Ana Viana\Fundamentos de Programação\ProjetoHawairesCorreto\ProjetoHawairesCorreto\obj\Debug\ProjetoHawairesCorreto.exe
+E:\T1BT - Ana Viana\Fundamentos de Programação\ProjetoHawairesCorreto\ProjetoHawairesCorreto\obj\Debug\ProjetoHawairesCorreto.pdb
+E:\T2BT_Ana_Viana\1º Periodo\T1BT - Ana Viana\Fundamentos de Programação\VisualStudio\C#ANA\ProjetoHawairesCorreto\ProjetoHawairesCorreto\bin\Debug\ProjetoHawairesCorreto.exe.config
+E:\T2BT_Ana_Viana\1º Periodo\T1BT - Ana Viana\Fundamentos de Programação\VisualStudio\C#ANA\ProjetoHawairesCorreto\ProjetoHawairesCorreto\obj\Debug\ProjetoHawairesCorreto.exe
+E:\T2BT_Ana_Viana\1º Periodo\T1BT - Ana Viana\Fundamentos de Programação\VisualStudio\C#ANA\ProjetoHawairesCorreto\ProjetoHawairesCorreto\obj\Debug\ProjetoHawairesCorreto.pdb
